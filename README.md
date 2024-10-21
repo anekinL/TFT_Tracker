@@ -2,7 +2,7 @@
 
 ~This is currently an unfinished project.~
 
-The Team Fight Tactics (TFT) Account Tracker and Probability Calculator is an ongoing project with the goal of analyzing account data using Riot Games Developer API and A probability calculator that is meant to be used for theory crafting or live game use. 
+The Team Fight Tactics (TFT) Account Tracker and Probability Calculator is an ongoing project with the goal of analyzing account data using **Riot Games Developer API** and A probability calculator that is meant to be used for theory crafting or live game use. 
 
 The trackers main goal is to analyzing the users information such as:
 - Winrate% or top4%
